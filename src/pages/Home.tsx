@@ -1,8 +1,9 @@
+import '../App.css'
 
-const Home = () => 
+function Home()
 {
-	return 
-	(
+	console.log("hello world!");
+	return (
 		<h1>Home</h1>	
 	)
 }
